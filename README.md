@@ -72,3 +72,5 @@ Incorpore el Contenedor Liviano Guice dentro del proyecto:
 	* Utilizar el idioma francés.
     * Utilizar el diccionario francés.
 	* etc...
+
+    <img src="img/Guice.png" alt="implementacion Guice">
